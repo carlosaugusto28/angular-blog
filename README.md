@@ -1,8 +1,12 @@
 # Controller Central
-Projeto feito no Bootcamp Fullstack DIO com o intuito de aprimorar o conhecimento em Angular
+Projeto feito no Bootcamp Fullstack DIO com o intuito de aprimorar o conhecimento em Angular, Um Blog voltando a games com o objetivo de informar aos viciados de carteirinha sobre seu jogo favorito. O Projeto sempre estará em desenvolvimento
 
-
+# Tela Inicial
 ![tela inicial](https://github.com/carlosaugusto28/angular-blog/assets/109244715/3810ca98-3cd7-4e11-8093-918548869259)
+
+# Tela Final
+
+![tela final](https://github.com/carlosaugusto28/angular-blog/assets/109244715/4c3882c0-eae1-4b91-a82e-291eb986e34c)
 
 # AngularBlog
 
