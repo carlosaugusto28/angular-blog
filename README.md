@@ -1,6 +1,9 @@
 # Controller Central
 Projeto feito no Bootcamp Fullstack DIO com o intuito de aprimorar o conhecimento em Angular, Um Blog voltando a games com o objetivo de informar aos viciados de carteirinha sobre seu jogo favorito. O Projeto sempre estará em desenvolvimento
 
+# Link para o Blog
+https://angular-blog-theta-mocha.vercel.app
+
 # Tela Inicial
 ![tela inicial](https://github.com/carlosaugusto28/angular-blog/assets/109244715/3810ca98-3cd7-4e11-8093-918548869259)
 
