@@ -5,7 +5,6 @@ Projeto feito no Bootcamp Fullstack DIO com o intuito de aprimorar o conheciment
 ![tela inicial](https://github.com/carlosaugusto28/angular-blog/assets/109244715/3810ca98-3cd7-4e11-8093-918548869259)
 
 # Tela Final
-
 ![tela final](https://github.com/carlosaugusto28/angular-blog/assets/109244715/4c3882c0-eae1-4b91-a82e-291eb986e34c)
 
 # AngularBlog
