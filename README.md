@@ -1,6 +1,9 @@
 # Controller Central
 Projeto feito no Bootcamp Fullstack DIO com o intuito de aprimorar o conhecimento em Angular
 
+
+![tela inicial](https://github.com/carlosaugusto28/angular-blog/assets/109244715/3810ca98-3cd7-4e11-8093-918548869259)
+
 # AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
