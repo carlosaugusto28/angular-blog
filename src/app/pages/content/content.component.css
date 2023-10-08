@@ -24,6 +24,11 @@
 }
 
 .content__description > p{
+  font-size: 25px;
   margin-top: 20px;
   color: rgb(214, 209, 209);
+}
+
+.content__description > a{
+  justify-content: right;
 }
