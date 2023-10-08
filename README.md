@@ -1,4 +1,4 @@
-#Controller Central
+# Controller Central
 Projeto feito no Bootcamp Fullstack DIO com o intuito de aprimorar o conhecimento em Angular
 
 # AngularBlog
