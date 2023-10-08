@@ -1,3 +1,6 @@
+#Controller Central
+Projeto feito no Bootcamp Fullstack DIO com o intuito de aprimorar o conhecimento em Angular
+
 # AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
