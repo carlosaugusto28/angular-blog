@@ -13,6 +13,9 @@ export class SmallCardComponent implements OnInit {
   @Input()
   cardTitle:string = "Hades 2 recebe novo trailer"
 
+  @Input()
+  Id:string ="0"
+
   constructor() { }
 
   ngOnInit(): void {
